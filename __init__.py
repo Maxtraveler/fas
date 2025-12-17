@@ -1,2 +1,2 @@
-# Handlers package
+# Utils package
 
