@@ -1,2 +1,2 @@
-# Calculators package
+# Handlers package
 
